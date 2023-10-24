@@ -14,6 +14,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+  - [🚀 Link To React App ](#-link-to-react-app-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -57,13 +58,12 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Link To React App <a name="live-demo"></a>
 
-- [Live Demo Link](https://stock-wise.vercel.app/)
+- [Link to React App](https://github.com/HtetWaiYan7191/hello-react-front-end)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
